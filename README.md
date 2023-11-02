@@ -14,6 +14,9 @@ Basic idea is to make nix accessible for non-tech users. Users don't want to kee
 For daily nix-y learnings:
 [nixpienotes.notion.site](https://nixpienotes.notion.site/nixpienotes/62b01375a98140eebbdd428734e4dc44?v=5caebf2081014b11b1ff8bb90e026aa7)
 
+Build Something Cool:
+[buildsomethingcool.notion.site](https://nixpienotes.notion.site/nixpienotes/Build-Something-Cool-221880dd171b4e2e861cb3fbd6b82940)
+
 ### Contact
 
 Email- `hi@riyabisht.com`
